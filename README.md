@@ -14,7 +14,7 @@
 ---
 
 ## 🧑‍💻 Professional Summary
-.NET Full Stack Developer with 11+ years of experience building, modernizing, and maintaining web, desktop, and mobile applications using .NET (C# and VB), ASP.NET, .NET Core, Angular, TypeScript, SQL Server, REST APIs, and Azure DevOps. Experienced in backend and frontend development, database integration, legacy migration, CI/CD, unit testing, Agile/Scrum, and remote collaboration with international clients.
+.NET Full Stack Developer with 11+ years of experience building, modernizing, and maintaining web, desktop, and mobile applications using .NET (C# and VB), ASP.NET, .NET Core, Angular, TypeScript, SQL Server, REST APIs, Azure DevOps and GitHub Copilot. Experienced in backend and frontend development, database integration, legacy migration, CI/CD, unit testing, Agile/Scrum, and remote collaboration with international clients.
 
 Specialist in Computer Security with domain experience in healthcare, logistics, inventory, and business operations.  
 **Authorized to work in Colombia and Italy (valid Italian residence permit).**
