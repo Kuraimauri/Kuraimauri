@@ -61,6 +61,8 @@ Python, Tkinter, Pandas, XlsxWriter, PowerBuilder, Computer Security.
 - Cloud fundamentals (Azure)  
 - Russian language 🇷🇺
 
+---
+
 ## 💼 Professional Experience
 
 ### **Software Developer — BairesDev**  
