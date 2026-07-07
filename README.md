@@ -61,10 +61,6 @@ Python, Tkinter, Pandas, XlsxWriter, PowerBuilder, Computer Security.
 - Cloud fundamentals (Azure)  
 - Russian language 🇷🇺
 
-![Mauricio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kuraimauri&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuraimauri&layout=compact&theme=tokyonight)
-
 ## 💼 Professional Experience
 
 ### **Software Developer — BairesDev**  
