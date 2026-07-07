@@ -1,7 +1,12 @@
 # Mauricio Arias  
 **.NET Full Stack Developer**
 
-C# • .NET • Angular • TypeScript • SQL Server • Azure DevOps • REST APIs • CI/CD  
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+  
 📧 mauricio.arias@outlook.com  
 🔗 [LinkedIn](https://linkedin.com/in/mauricio-arias-software)  
 📍 Medellín, Antioquia, Colombia  
