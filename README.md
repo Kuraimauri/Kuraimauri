@@ -128,5 +128,5 @@ Tecnológico de Antioquia — 2018
 ---
 
 ## 📄 PDF Version
-If you prefer the PDF version of my CV, you can download it here (once uploaded):  
+If you prefer the PDF version of my CV, you can download it here:  
 **[Download CV (PDF)](Mauricio_Arias_CV.pdf)**
