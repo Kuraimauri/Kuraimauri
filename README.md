@@ -45,7 +45,7 @@ Angular, TypeScript, JavaScript, HTML, CSS, WebView2, WinUI 3, WPF, Xamarin.
 SQL Server, MongoDB, SQLite, stored procedures, data transformation, database normalization.
 
 ### DevOps & Tools
-Azure DevOps, CI/CD pipelines, GitHub, SVN, Agile/Scrum, code reviews, pull requests, deployment pipelines.
+Azure DevOps, CI/CD pipelines, GitHub, GitHub Copilot, SVN, Agile/Scrum, code reviews, pull requests, deployment pipelines.
 
 ### Architecture & Integration
 REST APIs, service-oriented architecture, legacy modernization, API integration, HL7, AS/400.
@@ -72,6 +72,9 @@ Python, Tkinter, Pandas, XlsxWriter, PowerBuilder, Computer Security.
 - Implemented local persistence with MongoDB and SQLite.  
 - Built Python desktop tools with Tkinter and automated workflows using Pandas and XlsxWriter.  
 - Refactored legacy code to improve maintainability and long-term support.
+- Used GitHub Copilot and Gemini to support software development, code optimization, and unit testing activities.
+- Worked remotely with U.S. clients using Agile methodologies in English.
+
 
 ### **Software Developer — Freelance**  
 *2024 – 2025*  
@@ -85,6 +88,7 @@ Python, Tkinter, Pandas, XlsxWriter, PowerBuilder, Computer Security.
 - Maintained WPF applications and developed RESTful Web APIs using .NET Core and NUnit.  
 - Modernized frontend applications using Angular, TypeScript, JavaScript, and reusable UI components.  
 - Managed source code, pull requests, and CI/CD pipelines using GitHub, TFS, and Azure DevOps.
+- Worked remotely with U.S. clients using Agile methodologies in English.
 
 ### **Software Developer — Colanta**  
 *2015 – 2018*  
